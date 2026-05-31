@@ -13,6 +13,16 @@
       "titulo": "Aviso de reunión comunitaria",
       "mensaje": "La próxima reunión será informada por los canales oficiales de la comunidad.",
       "categoria": "participacion"
+    },
+    {
+      "titulo": "Cuidado con los rumores",
+      "mensaje": "No compartas información no verificada, especialmente en situaciones de crisis.",
+      "categoria": "prevencion-desinformacion"
+    },
+    {
+      "titulo": "Promoviendo el diálogo",
+      "mensaje": "Fomenta el diálogo constructivo y evita caer en discusiones que puedan generar conflictos.",
+      "categoria": "cultura-de-paz"
     }
   ]
   
