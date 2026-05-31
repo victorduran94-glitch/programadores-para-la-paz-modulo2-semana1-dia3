@@ -1,47 +1,47 @@
 Conceptos básicos de JSON – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Victor Manuel Duran Blanco
+Fecha: 31/02/2026
+Nombre de la rama: Victor_Duran
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JSON?
 
-Respuesta:
+Respuesta: Es un formato de texto ligero para intercambiar datos, que usa una estructura de pares clave-valor similar a los objetos de JavaScript.
 
 2. ¿Para qué sirve un archivo .json?
 
-Respuesta:
+Respuesta: Sirve para almacenar y transportar datos de manera organizada, legible tanto para humanos como para máquinas, como configuraciones, listas o bases de datos simples.
 
 3. ¿Qué tipo de información comunitaria puede organizarse en JSON?
 
-Respuesta:
+Respuesta: Se pueden organizar listas de propuestas ciudadanas, reportes de problemas, datos de participación, encuestas, calendarios de reuniones y perfiles de miembros de la comunidad.
 
 4. ¿Qué es una clave dentro de JSON?
 
-Respuesta:
+Respuesta: Es el nombre o identificador que va del lado izquierdo de los dos puntos, y sirve para acceder al valor asociado. Por ejemplo, en "nombre": "Juan", la clave es "nombre".
 
 5. ¿Qué es un valor dentro de JSON?
 
-Respuesta:
+Respuesta: Es el dato que va del lado derecho de los dos puntos, asociado a una clave. Puede ser texto, número, booleano, array u otro objeto. Por ejemplo, en "edad": 25, el valor es 25.
 
 6. ¿Qué diferencia hay entre texto simple y datos organizados en JSON?
 
-Respuesta:
+Respuesta: El texto simple es una cadena sin estructura, mientras que JSON organiza los datos en pares clave-valor, lo que permite acceder, filtrar y modificar información de manera precisa y automática.
 
 7. ¿Qué hace JSON.parse?
 
-Respuesta:
+Respuesta: Convierte una cadena de texto con formato JSON en un objeto de JavaScript que puede ser manipulado como un arreglo o una estructura de datos.
 
 8. ¿Qué hace fs.readFileSync en esta práctica?
 
-Respuesta:
+Respuesta: Lee un archivo del sistema de forma sincrónica, es decir, espera a que termine de leer el archivo antes de continuar con la siguiente línea de código.
 
 9. ¿Qué hace respuesta.json() en el cliente?
 
-Respuesta:
+Respuesta: Convierte la respuesta recibida del servidor (en formato JSON) en un objeto de JavaScript que el cliente puede usar fácilmente.
 
 10. ¿Cómo ayuda JSON a organizar una plataforma comunitaria?
 
-Respuesta:
+Respuesta: Permite almacenar de forma estructurada y estandarizada toda la información de la comunidad, como reportes, propuestas y participantes, facilitando su consulta, actualización y transmisión entre el servidor y los ciudadanos.

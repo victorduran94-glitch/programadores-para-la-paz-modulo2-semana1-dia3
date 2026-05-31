@@ -1,8 +1,8 @@
 Reflexión sobre datos comunitarios organizados – Módulo 2 Semana 1 Día 3
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Victor Manuel Duran Blanco
+Fecha: 31/05/2026
+Nombre de la rama: Victor_Duran
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,9 @@ En tu respuesta menciona al menos dos de estas ideas:
 - seguimiento
 - cultura de paz
 
-Respuesta:
+Respuesta: Una comunidad necesita organizar sus avisos, campañas y propuestas en datos claros, verificables y fáciles de consultar porque así se fortalece la transparencia y se evita que la información importante se pierda en mensajes desordenados o en redes sociales llenas de ruido.
+Cuando los datos son claros y verificables, se previene la desinformación, ya que cualquier persona puede comprobar por sí misma si un aviso es verdadero o si una propuesta fue realmente aprobada por la comunidad.
+El seguimiento de las propuestas también mejora, porque al estar organizadas por fechas, estados y responsables, todos pueden saber en qué momento se encuentra cada iniciativa y quién debe ejecutarla.
+Además, el lenguaje claro y los datos accesibles fomentan la participación ciudadana, ya que más personas se animan a involucrarse cuando entienden fácilmente de qué se trata cada propuesta o campaña.
+Por último, la confianza comunitaria crece cuando la gente sabe que la información que circula es confiable y que existe un orden detrás de cada aviso, lo que contribuye a una cultura de paz basada en el respeto y la verdad.
+En resumen, organizar la información no es solo una cuestión técnica, sino una forma de construir relaciones más justas, claras y participativas dentro de la comunidad.
